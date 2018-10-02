@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/GainerTheGofer/scope/package_scope/vis"
+
+	"github.com/arunkhattri/GainerTheGofer/04_scope/01_package_scope/02_visibility/vis"
 )
 
 func main() {
